@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "author": "Monei Bakang",
+  "email": "bakangmonei2@gmail.com",
   "scripts": {
     "build": "tsc && refine build",
     "cypress": "cypress open -C ./cypress.config.ts",
